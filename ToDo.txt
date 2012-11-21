@@ -1,0 +1,11 @@
+B_F - Does the program allow the manager to view the entire groups availability on one page like a dashboard for one day and can he toggle through days pages?
+B_F - Can all members on log in see a locked window of the entire stations availablity (with the same toggle day to day function).
+B_F - Can the sign in allow for members to tick a box with the following skills that would also be highlighted in the main viewing dashboard? RESCUE, DRIVER, MEDIC, FIGHTER
+F_B - Can the employees be limited to one selection for Rank/Title: FIREFIGHTER
+F_B - Can the managers be limited to the following Rank/Title: 1.CAPTAIN 2.DEPUTY 3.FIREFIGHTER 
+B_F - Can a yellow code be utilised for ABSENT (Absent is approved absence, sick leave, carers leave, LWOP, LSL etc).
+B_F - Can blue code be utilised as ONDUTY (other Station, training course and Brigade Activites).
+F__ - Can the name Squad, be changed to Station?
+B_F - Can more than one manager belong to a Station (I'd prefer three managers access per station.
+B_F - When a user logs off or makes a change within a squad can the program send an email to all managers of that squad stating, a change has been made please logon and review (with a link within the email back to FLAMEGUARD)
+F__ - Can we change the FLAMEGUARD to FIREGUARD (love the theme though)

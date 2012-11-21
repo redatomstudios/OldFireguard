@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container, .selectionContainer {
+	height: 260px;
+	width: 600px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	background: #EEE;
+	padding: 20px;
+	border: solid 10px #CCF;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	box-shadow: inset 0 0 15px #999;
+	font-weight: bold;
+}
+
+.selectionContainer {
+	height: 400px;
+	width: 600px;
+	margin: auto;
+}
+
+#fLeft {
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: auto;	
+	width: 40%;
+	text-align: center;
+	padding: 20px;
+}
+
+#fRight {
+	position: absolute;
+	top: 0;
+	right: 0;
+	margin: auto;	
+	width: 40%;
+	text-align: center;
+	padding: 20px;
+}
+
+.formElement {
+	height: 30px;
+	width: 400px;	
+}
+
+.bigButton {
+	height: 40px;
+	width: 200px;	
+}
+
+#signupHinter {
+	border: none;
+	background: none;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	position: absolute;
+	bottom: 25px;
+	left: 40px;
+	resize: none;
+}
+
+.tBox {
+	font-size: 14px;	
+}

@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header {
+	height: 50px;
+	width: 100%;
+	padding: 10px 0;
+	position: absolute;
+	top: 0;
+	background: #CCF;
+	text-align: right;
+	box-shadow: 0 2px 10px #777;
+}
+
+.textHint {
+	position: absolute; 
+	top: 50px;
+	right: 270px;	
+	font-size: 12px;
+}
+
+body {
+	background: white;
+}
+
+.bodyContainer {
+	position: absolute;
+	top: 200px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	background:  url(../Images/FGShield.gif) no-repeat;
+	height: 400px;
+	width: 820px;
+}

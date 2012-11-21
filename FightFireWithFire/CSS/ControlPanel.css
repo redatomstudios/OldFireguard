@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bodyContainer {
+	border: none;
+	border-top: solid 10px #CCF;
+	margin-top: 40px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	margin: 40px auto;
+	height: 500px;
+	width: 768px;
+}
+
+.box {
+	width: 746px;
+	border: dashed thin #AAF;
+	padding: 10px;	
+	margin: 20px 0;
+	background: #EEE;
+}
+
+.empCell {
+	border: dashed thin #AAF;
+	background: EEF;
+}
+
+.statusCell {
+	height: 32px;
+	width: 50px;
+	border: solid thin #AAF;
+	float: left;
+	vertical-align: center;
+		
+}
+
+.button {
+	margin: 0 5px;
+	cursor: pointer;	
+}
